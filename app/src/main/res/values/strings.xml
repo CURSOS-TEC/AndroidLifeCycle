@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifeCycleApp</string>
+    <string name="preference_file_key">SOA4ID</string>
+</resources>
